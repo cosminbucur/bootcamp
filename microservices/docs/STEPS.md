@@ -28,9 +28,9 @@
 
 # design
 
-- learn to design [design sample.drawio]
+- learn to design [design-sample.drawio]
 - create design for all pages [design.drawio]
-- learn to create routing plan [routing sample.drawio]
+- learn to create routing plan [routing-sample.drawio]
 - create routing [routing.drawio]
 
 # refinement

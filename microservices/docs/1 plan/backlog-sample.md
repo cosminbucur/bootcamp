@@ -1,8 +1,4 @@
-## PROJECT  awesome-app
-
-## TEAM     WILD
-
-- GIT cosminbucur
+## TEAM     RED
 
 # 1. define purpose
 

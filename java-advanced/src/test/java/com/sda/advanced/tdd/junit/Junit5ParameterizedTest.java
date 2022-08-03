@@ -22,6 +22,11 @@ class Junit5ParameterizedTest {
     @ParameterizedTest
     @ValueSource(ints = {3, 6, 15, -9})
     void shouldBeDivisibleByThree(int number) {
+        // given
+
+        // when
+
+        // then
         assertThat(UtilityClass.isDivisibleByThree(number)).isTrue();
     }
 

@@ -1,0 +1,13 @@
+#logback.classic pattern: %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n
+#logback.classic pattern: %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n
+17:29:05.223 [main] INFO  com.sda.spring.boot.MyComponentTest - Starting MyComponentTest on DESKTOP-OJT8QL8 with PID 12252 (started by Lenovo in C:\dev\sda-bootcamp\spring-boot)
+17:29:05.227 [main] INFO  com.sda.spring.boot.MyComponentTest - No active profile set, falling back to default profiles: default
+17:29:06.059 [main] INFO  com.sda.spring.boot.MyComponentTest - Started MyComponentTest in 1.393 seconds (JVM running for 6.167)
+17:29:06.061 [main] INFO  c.s.s.boot.CustomCommandLineRunner - --- in custom command line runner
+17:29:06.062 [main] INFO  com.sda.spring.boot.MyComponent - --- in complex operation
+17:29:06.062 [main] ERROR c.s.s.boot.logging.LoggerComponent - error message with 10 issues
+17:29:06.064 [main] WARN  c.s.s.boot.logging.LoggerComponent - warn message
+17:29:06.065 [main] INFO  c.s.s.boot.logging.LoggerComponent - info message
+17:29:06.065 [main] INFO  c.s.s.b.p.PropertyCommandLineRunner - custom properties (spring): PropertyReader{appOwner='company', javaHome='C:\Program Files\Java\jdk-11.0.15.1'}
+17:29:06.074 [main] INFO  c.s.s.b.p.PropertyCommandLineRunner - custom properties (spring boot): CustomProperties{appOwner='company', releaseVersion='1.0'}
+17:29:06.542 [main] INFO  com.sda.spring.boot.MyComponent - --- in complex operation

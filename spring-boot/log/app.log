@@ -1,0 +1,4 @@
+#logback.classic pattern: %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n
+#logback.classic pattern: %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n
+17:23:35.354 [main] INFO  c.s.s.boot.SpringBoot2Application - Starting SpringBoot2Application on DESKTOP-OJT8QL8 with PID 8708 (C:\dev\sda-bootcamp\spring-boot\target\classes started by Lenovo in C:\dev\sda-bootcamp)
+17:23:35.358 [main] INFO  c.s.s.boot.SpringBoot2Application - No active profile set, falling back to default profiles: default
