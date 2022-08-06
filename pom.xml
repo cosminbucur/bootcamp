@@ -16,6 +16,7 @@
 
         <!-- spring -->
         <module>spring-core</module>
+        <module>spring-aop</module>
 
         <!-- parent-boot-2 -->
         <module>parent-boot-2</module>
@@ -24,12 +25,17 @@
         <!-- persistence -->
         <module>jdbc</module>
         <module>hibernate</module>
+        <module>spring-data-jpa</module>
 
         <!-- web -->
+        <module>spring-boot-rest</module>
+        <module>testing-advanced</module>
+        <module>spring-resttemplate</module>
+        <module>spring-webflux</module>
+        <module>json-schema</module>
 
         <!-- microservices -->
         <module>microservices</module>
-
     </modules>
 
     <properties>
